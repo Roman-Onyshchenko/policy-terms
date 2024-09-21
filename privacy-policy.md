@@ -108,7 +108,7 @@ Want to learn more about what we do with any information we collect? [Review th
   
 
 **1\. WHAT INFORMATION DO WE COLLECT?**
-
+{:#infocollect}
   
 
 **Personal information you disclose to us**
