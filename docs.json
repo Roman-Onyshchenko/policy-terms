@@ -6,7 +6,7 @@
 			"group": "Getting Started",
 			"pages": [
 				{
-					"title": "Getting to know docs.page",
+					"title": "Sidebar",
 					"href": "/_sidebar",
 					"icon": "rocket"
 				},
