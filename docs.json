@@ -7,13 +7,8 @@
 			"pages": [
 				{
 					"title": "Getting to know docs.page",
-					"href": "/",
+					"href": "/_sidebar",
 					"icon": "rocket"
-				},
-				{
-					"title": "Next Steps",
-					"href": "/next-steps",
-					"icon": "arrow-right"
 				},
 				{
 					"title": "Privacy Policy",
@@ -22,7 +17,7 @@
 				},
 				{
 					"title": "Terms and Conditions",
-					"href": "/terms-conditions",
+					"href": "/terms-and-conditions",
 					"icon": "rocket"
 				}
 			]
