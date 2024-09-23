@@ -6,8 +6,13 @@
 			"group": "Getting Started",
 			"pages": [
 				{
-					"title": "Sidebar",
-					"href": "/_sidebar",
+					"title": "F.A.Q.",
+					"href": "/faq/en",
+					"icon": "rocket"
+				},
+				{
+					"title": "F.A.Q.",
+					"href": "/faq/uk",
 					"icon": "rocket"
 				},
 				{
