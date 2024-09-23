@@ -12,12 +12,22 @@
 				},
 				{
 					"title": "Privacy Policy",
-					"href": "/privacy-policy",
+					"href": "/privacy-policy-en",
 					"icon": "rocket"
 				},
 				{
-					"title": "Terms and Conditions",
-					"href": "/terms-and-conditions",
+					"title": "Політика конфіденційності",
+					"href": "/privacy-policy/uk",
+					"icon": "rocket"
+				},
+				{
+					"title": "Terms & Conditions",
+					"href": "/terms-and-conditions/en",
+					"icon": "rocket"
+				},
+				{
+					"title": "Положення та умови",
+					"href": "/terms-and-conditions/uk",
 					"icon": "rocket"
 				}
 			]
