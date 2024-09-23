@@ -16,6 +16,16 @@
 					"icon": "rocket"
 				},
 				{
+					"title": "Premium",
+					"href": "/premium/en",
+					"icon": "rocket"
+				},
+				{
+					"title": "Преміум",
+					"href": "/premium/uk",
+					"icon": "rocket"
+				},
+				{
 					"title": "Privacy Policy",
 					"href": "/policy/en",
 					"icon": "rocket"
