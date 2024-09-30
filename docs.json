@@ -6,13 +6,13 @@
 			"group": "Getting Started",
 			"pages": [
 				{
-					"title": "F.A.Q.",
-					"href": "/faq/en",
+					"title": "Flow",
+					"href": "/flow/en",
 					"icon": "rocket"
 				},
 				{
-					"title": "F.A.Q.",
-					"href": "/faq/uk",
+					"title": "Процес",
+					"href": "/flow/uk",
 					"icon": "rocket"
 				},
 				{
